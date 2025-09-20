@@ -1,0 +1,18 @@
+{
+    "spec": 1,
+    "name": "Rubik",
+    "previewText": "Rubik is a geometric sans-serif typeface with slightly rounded corners, supporting Latin and Cyrillic characters.",
+    "main": {
+        "Rubik-Bold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Bold.ttf",
+        "Rubik-BoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-BoldItalic.ttf",
+        "Rubik-ExtraBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBold.ttf",
+        "Rubik-ExtraBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBoldItalic.ttf",
+        "Rubik-Medium": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Medium.ttf",
+        "Rubik-MediumItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-MediumItalic.ttf",
+        "Rubik-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf",
+        "Rubik-Italic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Italic.ttf",
+        "Rubik-SemiBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBold.ttf",
+        "Rubik-SemiBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBoldItalic.ttf",
+        "Rubik-Mono-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf"
+    }
+}
