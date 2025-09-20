@@ -3,16 +3,16 @@
     "name": "Rubik",
     "previewText": "Rubik is a geometric sans-serif typeface with slightly rounded corners, supporting Latin and Cyrillic characters.",
     "main": {
-        "Rubik-Bold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Bold.ttf",
-        "Rubik-BoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-BoldItalic.ttf",
-        "Rubik-ExtraBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBold.ttf",
-        "Rubik-ExtraBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBoldItalic.ttf",
-        "Rubik-Medium": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Medium.ttf",
-        "Rubik-MediumItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-MediumItalic.ttf",
-        "Rubik-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf",
-        "Rubik-Italic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Italic.ttf",
-        "Rubik-SemiBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBold.ttf",
-        "Rubik-SemiBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBoldItalic.ttf",
-        "Rubik-Mono-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf"
+        "Rubik-Bold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Bold.ttf?raw=1",
+        "Rubik-BoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-BoldItalic.ttf?raw=1",
+        "Rubik-ExtraBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBold.ttf?raw=1",
+        "Rubik-ExtraBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-ExtraBoldItalic.ttf?raw=1",
+        "Rubik-Medium": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Medium.ttf?raw=1",
+        "Rubik-MediumItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-MediumItalic.ttf?raw=1",
+        "Rubik-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf?raw=1",
+        "Rubik-Italic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Italic.ttf?raw=1",
+        "Rubik-SemiBold": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBold.ttf?raw=1",
+        "Rubik-SemiBoldItalic": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-SemiBoldItalic.ttf?raw=1",
+        "Rubik-Mono-Regular": "https://github.com/google/fonts/raw/main/ofl/rubik/Rubik-Regular.ttf?raw=1"
     }
 }
