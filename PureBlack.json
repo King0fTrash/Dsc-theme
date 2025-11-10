@@ -209,23 +209,5 @@
         "PLUM_23": "#000000",
         "PLUM_24": "#000000"
     },
-    "spec": 2,
-"plainCss": "
-.messageContent-2qWWxC,
-.messageContent-1S5PpW {
-  background-color: #0d0d0d !important;
-  border-radius: 12px !important;
-  padding: 8px 12px !important;
-  margin: 4px 0 !important;
-  box-shadow: 0 0 6px rgba(255, 255, 255, 0.05) !important;
-  border: 1px solid rgba(255, 255, 255, 0.08) !important;
-  transition: background-color 0.2s ease;
-}
-
-.messageContent-2qWWxC:hover,
-.messageContent-1S5PpW:hover {
-  background-color: #141414 !important;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.1) !important;
-}
-"
+    "spec": 2
 }
